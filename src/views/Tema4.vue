@@ -23,9 +23,9 @@
               h3.mb-1 Enlace a...
               p.text-small Para introducir el uso de la composición digital se adjunta link de curso de After Effects llamado ¡VIDEO ANIMADO para tu NEGOCIO! en donde se realiza un proyecto de animación para un negocio de comidas. 
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
+              a.boton.color-acento-botones(:href="('https://youtu.be/yB2paQihPVE')" target="_blank")
+                span Enlace 
+                i.fas.fa-link
 
 </template>
 
