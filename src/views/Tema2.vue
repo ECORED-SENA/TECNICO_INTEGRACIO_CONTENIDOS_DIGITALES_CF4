@@ -17,13 +17,13 @@
       h2 2.1  Dibujo a mano alzada
     p.mb-5 El dibujo a mano alzada ayuda a representar objetos reales, animales o cualquier tipo de idea que se quiera compartir, es la base para el posterior desarrollo de un proyecto de animación. Desde la ilustración en el papel se puede plantear la idea principal, el camino o los pasos a seguir con el fin de utilizarlo como una guía en el desarrollo de una idea más elaborada.
 
-    //todo! CAMBIAR VIDEO  
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
-    //todo! CAMBIAR VIDEO 
-
+    .row.mb-5
+      .col-lg-8: img(src='@/assets/curso/img55.svg').mb-5(data-aos="zoom-in-left")
+      .col-lg-4(data-aos="zoom-in-right")
+        .contenedor-rounded.bg--1.p-5
+          p.mt-5.text-white.text-end Para dar inicio se deben dibujar las principales formas geométricas para diseñar un personaje, el cual podrá ser una figura humana, con el fin de generar la animación del ciclo de caminado. Como se puede apreciar en la figura 
+            b “Ciclo de caminado” 
+            |el personaje debe tener una pose diferente en cada dibujo, de manera que el caminado se vea completo dando un paso con cada una de las piernas. Otra manera es diseñar el personaje pero se dibuja cada uno de los miembros de manera separada para que, posteriormente, este diseño pueda ser animado como una marioneta.
 
     #t_2_2.titulo-segundo
       h2 2.2  Photoshop
@@ -349,4 +349,16 @@ export default {
 
 .lista-ul--color li > i:first-of-type
   color: $color-primario
+.contenedor-rounded
+  border-radius: 0px 0px 10px 100px
+  position: relative
+  &:before
+    right: 10%
+    position: absolute
+    content: ''
+    background-color: $color-secundario
+    width: 109px
+    height: 10px
+.pasos-b__header__item__dot
+  border: 3px solid #DDFFA7 !important
 </style>
