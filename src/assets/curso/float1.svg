@@ -1,13 +1,15 @@
 <svg id="Grupo_58413" data-name="Grupo 58413" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66.312" height="56.597" viewBox="0 0 66.312 56.597">
   <defs>
     <linearGradient id="linear-gradient" x1="0.746" y1="-0.026" x2="0.237" y2="0.939" gradientUnits="objectBoundingBox">
-      <stop offset="0.354" stop-color="#bef6f4"/>
-      <stop offset="0.504" stop-color="#3ae4df"/>
-      <stop offset="0.642" stop-color="#00afc9"/>
+      <stop offset="0" stop-color="#ffd5fc"/>
+      <stop offset="0.354" stop-color="#fcbcf9"/>
+      <stop offset="0.504" stop-color="#ec79e7"/>
+      <stop offset="0.642" stop-color="#97169b"/>
+      <stop offset="1" stop-color="#b811be"/>
     </linearGradient>
     <linearGradient id="linear-gradient-2" x1="0.745" y1="-0.043" x2="0.236" y2="0.965" gradientUnits="objectBoundingBox">
-      <stop offset="0" stop-color="#84eeeb"/>
-      <stop offset="1" stop-color="#3ae4df"/>
+      <stop offset="0" stop-color="#fba2a6"/>
+      <stop offset="1" stop-color="#fa575d"/>
     </linearGradient>
     <filter id="Trazado_105285" x="20.124" y="14.917" width="25.326" height="20.81" filterUnits="userSpaceOnUse">
       <feOffset dx="-0.369" dy="0.369" input="SourceAlpha"/>

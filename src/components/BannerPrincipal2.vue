@@ -4,7 +4,7 @@
     :style="{'background-image': globalData.fondoBannerPrincipal ? `url(${globalData.fondoBannerPrincipal})` : 'none'}"
   )
     .row.banner-principal__row
-      .col-lg-7.col-xxl-5.ps-4.ps-sm-5.py-4.py-sm-5.banner-principal__info
+      .col-lg-12.col-xxl-5.ps-4.ps-sm-5.py-4.py-sm-5.banner-principal__info
         .banner-principal__componente
           h1.mb-0(v-html="globalData.componenteFormativo")
         .banner-principal__descripcion
@@ -14,7 +14,7 @@
             span.me-1 Ver más
             i.fas.fa-angle-right
 
-      .d-none.d-lg-block.col-lg-5.px-0.banner-principal__img
+      .d-none.d-xxl-block.col-lg-5.px-0.banner-principal__img
         .contenedor-imagenes
           .imagen_flotante.imagen_flotante_1: img(src="@/assets/curso/float1.svg")
           .imagen_flotante.imagen_flotante_2: img(src="@/assets/curso/float2.svg")
@@ -106,33 +106,50 @@ export default {
     position: absolute
     top: 270px
     left: 330px
+    @media (min-width: 1384)
+      left:
+      top: 290px
   &_2
     animation: float2 6s ease-in-out infinite
     top: 120px
     left: 100px
-
     position: absolute
+    @media (min-width: 1384)
+      left:
+      top:
   &_3
     animation:  scale 4s ease-in-out infinite
     animation:  rotate 4s ease-in-out infinite
     top: 170px
     left: 230px
     position: absolute
+    @media (min-width: 1384)
+      left:
+      top:
   &_4
     animation: rotate2 6s ease-in-out infinite
     position: absolute
     top: 100px
     left: 360px
+    @media (min-width: 1384)
+      left:
+      top:
   &_5
     animation: translate2 6s ease-in-out infinite
     position: absolute
     top: 229px
-    left: 34px
+    left: 73px
+    @media (min-width: 1384)
+      left:
+      top:
   &_6
     animation: translate1 6s ease-in infinite
     position: absolute
     bottom: 118px
-    left: 155px
+    left: 192px
+    @media (min-width: 1384)
+      left:
+      top:
 @keyframes float
 	0%
 		transform: translatey(0px)

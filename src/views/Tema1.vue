@@ -91,36 +91,36 @@
           p Aunque originalmente estos principios fueron propuestos para el desarrollo de la animación clásica, también son utilizados en la animación digital y la animación 3D.
     p.mb-5 Las técnicas de animación existentes son variadas y han surgido a medida que aparecen nuevas tecnologías que ayudan a realizarlas, ahora se relacionan las más relevantes:
     AcordeonB.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
-      .row(titulo="Dibujo animado: ")
+      .row(titulo="Dibujo animado")
         .col-md-4
           figure
             img(src='@/assets/curso/img13.jpg', alt='Texto que describa la imagen')
         .col-md-8.mb-4.mb-md-0
           p esta es la animación tradicional, ya que se logra dibujando cuadro por cuadro o fotograma por fotograma el objeto a animar o personaje en el papel, después se fotografía con una cámara estática y luego estas se colocan secuencialmente para lograr la sensación de movimiento; en la actualidad es una técnica casi en desuso, por la utilización de las computadoras que facilitan y abaratan el desarrollo de la animación. 
-      .row(titulo="Stop Motion: ")
+      .row(titulo="Stop Motion")
         .col-md-4
           figure
             img(src='@/assets/curso/img14.jpg', alt='Texto que describa la imagen')
         .col-md-8.mb-4.mb-md-0
-          p también conocida como animación “cuadro por cuadro”, consiste en animar objetos o personajes construidos o moldeados especialmente a los que se fotografía cada vez que el animador realiza un pequeño cambio generando así la ilusión del movimiento.
-      .row(titulo="Pixilación:")
+          p También conocida como animación “cuadro por cuadro”, consiste en animar objetos o personajes construidos o moldeados especialmente a los que se fotografía cada vez que el animador realiza un pequeño cambio generando así la ilusión del movimiento.
+      .row(titulo="Pixilación")
         .col-md-4
           figure
             img(src='@/assets/curso/img15.jpg', alt='Texto que describa la imagen')
         .col-md-8.mb-4.mb-md-0
-          p este tipo de animación es una variante del Stop Motion que, en vez de utilizar objetos o personajes construidos, usa personas y objetos reales. Igualmente estos se fotografían y se van desplazando poco a poco entre cada foto para luego generar la sensación de movimiento.
-      .row(titulo="Rotoscopia: ")
+          p Este tipo de animación es una variante del Stop Motion que, en vez de utilizar objetos o personajes construidos, usa personas y objetos reales. Igualmente estos se fotografían y se van desplazando poco a poco entre cada foto para luego generar la sensación de movimiento.
+      .row(titulo="Rotoscopia")
         .col-md-4
           figure
             img(src='@/assets/curso/img16.jpg', alt='Texto que describa la imagen')
         .col-md-8.mb-4.mb-md-0
-          p esta técnica de animación es llamada así por el uso del rotoscopio, una máquina que tiene una placa de vidrio sobre la que se colocan papel o láminas de acetato iluminadas por un proyector que tiene en la parte baja para luego calcar las imágenes cuadro por cuadro; en la actualidad esta técnica se desarrolla digitalmente con mayor facilidad.
-      .row(titulo="Animación por computadora: ")
+          p Esta técnica de animación es llamada así por el uso del rotoscopio, una máquina que tiene una placa de vidrio sobre la que se colocan papel o láminas de acetato iluminadas por un proyector que tiene en la parte baja para luego calcar las imágenes cuadro por cuadro; en la actualidad esta técnica se desarrolla digitalmente con mayor facilidad.
+      .row(titulo="Animación por computadora")
         .col-md-4
           figure
             img(src='@/assets/curso/img17.jpg', alt='Texto que describa la imagen')
         .col-md-8.mb-4.mb-md-0
-          p también conocida como animación digital o por ordenador es una técnica que consiste en la utilización de programas digitales para crear animaciones. En estos se pueden realizar animaciones 2D y 3D.
+          p También conocida como animación digital o por ordenador es una técnica que consiste en la utilización de programas digitales para crear animaciones. En estos se pueden realizar animaciones 2D y 3D.
       
 </template>
 

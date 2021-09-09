@@ -7,7 +7,7 @@
         span 3
       h1 Animación 3D
     .row.mb-5.align-items-center
-      .col-lg-6: img(src="@/assets/curso/img48.svg")(data-aos= "slide-right")
+      .col-lg-6: img(src="@/assets/curso/img48.jpg")(data-aos= "slide-right")
       .col-lg-6
         p La animación 3D consiste en dar vida a objetos que se pueden mover y girar en un espacio tridimensional, para poder realizarla se utilizan softwares de animación especializados que permiten modelarlos o esculpirlos de manera digital. Los animadores o diseñadores pueden generar objetos o personajes que dotan de personalidad propia con el fin de contar una historia. Este tipo de animación es utilizada en un gran número de sectores comerciales o en muchos proyectos audiovisuales como los anuncios publicitarios, videojuegos, cine, realidad virtual, entre muchos otros.
     p.mb-5 Los programas más utilizados en la industria en general son: 
