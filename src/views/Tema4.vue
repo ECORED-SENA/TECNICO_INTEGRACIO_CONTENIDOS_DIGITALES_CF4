@@ -48,6 +48,5 @@ export default {
 
 <style lang="sass" scoped>
 .bg-degrade
-  background: rgb(255,142,146);
-  background: linear-gradient(180deg, rgba(255,142,146,1) 0%, rgba(255,75,82,1) 100%);
+  background-color: #01549E;
 </style>
