@@ -96,7 +96,7 @@
           figure
             img(src='@/assets/curso/img13.jpg', alt='Texto que describa la imagen')
         .col-md-8.mb-4.mb-md-0
-          p esta es la animación tradicional, ya que se logra dibujando cuadro por cuadro o fotograma por fotograma el objeto a animar o personaje en el papel, después se fotografía con una cámara estática y luego estas se colocan secuencialmente para lograr la sensación de movimiento; en la actualidad es una técnica casi en desuso, por la utilización de las computadoras que facilitan y abaratan el desarrollo de la animación. 
+          p Esta es la animación tradicional, ya que se logra dibujando cuadro por cuadro o fotograma por fotograma el objeto a animar o personaje en el papel, después se fotografía con una cámara estática y luego estas se colocan secuencialmente para lograr la sensación de movimiento; en la actualidad es una técnica casi en desuso, por la utilización de las computadoras que facilitan y abaratan el desarrollo de la animación. 
       .row(titulo="Stop Motion")
         .col-md-4
           figure
