@@ -15,75 +15,75 @@
           .indicador--hover(v-if="mostrarIndicador")(@mouseover="mostrarIndicador = false ")
           .textos.justify-content-center.align-items-center.w-100
             h4.text-center.mb-0.m-auto Estirar y encoger
-          .tarjetas-hover_contenido.p-3
+          .tarjetas-hover_contenido
             img(src="@/assets/curso/img1.gif")
       .col-lg-3.mb-3
         .tarjetas-hover.color-acento-botones.p-5.align-items-center.h-100.d-flex.justify-content-center
           .textos.justify-content-center.align-items-center.w-100
             h4.text-center.mb-0.m-auto Anticipación
-          .tarjetas-hover_contenido.p-3
+          .tarjetas-hover_contenido
             img(src="@/assets/curso/img2.gif")
       .col-lg-3.mb-3
         .tarjetas-hover.color-acento-botones.p-5.align-items-center.h-100.d-flex.justify-content-center
           .textos.justify-content-center.align-items-center.w-100
             h4.text-center.mb-0.m-auto Puesta en escena
-          .tarjetas-hover_contenido.p-3
+          .tarjetas-hover_contenido
             img(src="@/assets/curso/img3.gif")
       .col-lg-3.mb-3
         .tarjetas-hover.color-acento-botones.p-5.align-items-center.h-100.d-flex.justify-content-center
           .textos.justify-content-center.align-items-center.w-100
             h4.text-center.mb-0 Animación directa y pose a pose
-          .tarjetas-hover_contenido.p-3
+          .tarjetas-hover_contenido
             img(src="@/assets/curso/img4.gif")
     .row.mb-3
       .col-lg-3.mb-3
         .tarjetas-hover.color-acento-botones.p-5.align-items-center.h-100.d-flex.justify-content-center
           .textos.justify-content-center.align-items-center.w-100
             h4.text-center.mb-0.m-auto Acción complementaria y acción superpuesta
-          .tarjetas-hover_contenido.p-3
+          .tarjetas-hover_contenido
             img(src="@/assets/curso/img5.gif")
       .col-lg-3.mb-3
         .tarjetas-hover.color-acento-botones.p-5.align-items-center.h-100.d-flex.justify-content-center
           .textos.justify-content-center.align-items-center.w-100
             h4.text-center.mb-0.m-auto Acelerar y desacelerar
-          .tarjetas-hover_contenido.p-3
+          .tarjetas-hover_contenido
             img(src="@/assets/curso/img6.gif")
       .col-lg-3.mb-3
         .tarjetas-hover.color-acento-botones.p-5.align-items-center.h-100.d-flex.justify-content-center
           .textos.justify-content-center.align-items-center.w-100
             h4.text-center.mb-0.m-auto Arcos
-          .tarjetas-hover_contenido.p-3
+          .tarjetas-hover_contenido
             img(src="@/assets/curso/img7.gif")
       .col-lg-3.mb-3
         .tarjetas-hover.color-acento-botones.p-5.align-items-center.h-100.d-flex.justify-content-center
           .textos.justify-content-center.align-items-center.w-100
             h4.text-center.mb-0.m-auto Acción secundaria
-          .tarjetas-hover_contenido.p-3
+          .tarjetas-hover_contenido
             img(src="@/assets/curso/img8.gif")
     .row.mb-5
       .col-lg-3.mb-3
         .tarjetas-hover.color-acento-botones.p-5.align-items-center.h-100.d-flex.justify-content-center
           .textos.justify-content-center.align-items-center.w-100
             h4.text-center.mb-0.m-auto Timing
-          .tarjetas-hover_contenido.p-3
+          .tarjetas-hover_contenido
             img(src="@/assets/curso/img9.gif")
       .col-lg-3.mb-3
         .tarjetas-hover.color-acento-botones.p-5.align-items-center.h-100.d-flex.justify-content-center
           .textos.justify-content-center.align-items-center.w-100
             h4.text-center.mb-0.m-auto Exageración
-          .tarjetas-hover_contenido.p-3
+          .tarjetas-hover_contenido
             img(src="@/assets/curso/img10.gif")
       .col-lg-3.mb-3
         .tarjetas-hover.color-acento-botones.p-5.align-items-center.h-100.d-flex.justify-content-center
           .textos
             h4.text-center.mb-0.m-auto Dibujo sólido
-          .tarjetas-hover_contenido.p-3
+          .tarjetas-hover_contenido
             img(src="@/assets/curso/img11.gif")
       .col-lg-3.mb-3
         .tarjetas-hover.color-acento-botones.p-5.align-items-center.h-100.d-flex.justify-content-center
           .textos.justify-content-center.align-items-center.w-100
             h4.text-center.mb-0.m-auto Atractivo
-          .tarjetas-hover_contenido.p-3
+          .tarjetas-hover_contenido
             img(src="@/assets/curso/img12.gif")
     .row.mb-5.justify-content-center
       .col-lg-6
