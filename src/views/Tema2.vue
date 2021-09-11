@@ -85,7 +85,7 @@
     //todo! CAMBIAR VIDEO 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/kkfwi6xJfjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/oWDCwu6p9NA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Animación digital 2D: Photoshop
     //todo! CAMBIAR VIDEO 
     #t_2_3.titulo-segundo
