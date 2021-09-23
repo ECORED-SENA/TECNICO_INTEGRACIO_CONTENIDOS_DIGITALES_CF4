@@ -122,7 +122,7 @@
               img(src='@/assets/curso/img30.svg', alt='Texto que describa la imagen' style='width: 215px').m-auto
         .row(titulo="").justify-content-center
           .col-md-6.mb-4.mb-md-0
-            p Teniendo la imagen o fotografía en el documento se puede ubicar en el lugar en donde se facilite de mejor manera el proceso de vectorización con la herramienta “Selección”, ya en posición se modifica la opacidad al 50% para que el proceso de calcado se pueda realizar de una mejor manera. Para esto, se utilizará la herramienta “Pluma” (tecla P) ubicada en el panel izquierdo de la pantalla, dependiendo de lo que se requiera. En la parte baja del mismo panel de herramientas se encuentra la opción para activar el color del relleno y del contorno o desactivar el relleno si no se requiere para el trabajo que se está realizando. En la opción trazado se puede cambiar el grosor; para esta imagen se puede realizar de 3 puntos o escoger el grosor que más se ajuste al estilo que está buscando.
+            p Teniendo la imagen o fotografía en el documento se puede ubicar en el lugar en donde se facilite de mejor manera el proceso de vectorización con la herramienta “Selección”, ya en posición se modifica la opacidad al 50% para que el proceso de calcado se pueda realizar de una mejor manera. Para esto, se utilizará la herramienta “Pluma” (tecla P) ubicada en el panel izquierdo de la pantalla, dependiendo de lo que se requiera. En la parte baja del mismo panel de herramientas se encuentra la opción para activar el color del relleno y del contorno o desactivar el relleno si no se requiere para el trabajo que se está realizando. En la opción “trazado” se puede cambiar el grosor; para esta imagen se puede realizar de 3 puntos o escoger el grosor que más se ajuste al estilo que está buscando.
           .col-md-4
             figure
               img(src='@/assets/curso/img31.svg', alt='Texto que describa la imagen' style='width: 215px').m-auto
@@ -167,7 +167,7 @@
         .row(titulo="").justify-content-center
           .col-md-6.mb-4.mb-md-0
             p Al abrir el programa <i>After Effects</i> lo primero que se debe hacer es crear un 
-              b “Nuevo proyecto” 
+              b “Nuevo proyecto”
               |, por defecto aparecerá en pantalla una ventana en donde se accede a esta opción. Si no aparece se va al menú superior y hace clic en la opción 
               b “Archivo”, “Nuevo”  
               | y se selecciona 
@@ -182,8 +182,8 @@
               | con los requerimientos que se necesiten. Se debe ir al menú superior de la pantalla, clic en 
               b “Composición”  
               | y se selecciona la opción 
-              b “Nueva composición” (Ctrl + N) 
-              | , aparecerá una ventana en donde se puedan modificar las opciones de esta nueva composición, para el proyecto serán las siguientes: anchura 1920 píxeles, la altura 1080 píxeles, la velocidad de fotogramas 30, la duración se puede dejar en 30 segundos o el tiempo suficiente para el resultado esperado, en este caso y para la animación de un ciclo de caminado completo de un personaje, 30 segundos es un tiempo más que suficiente. Se dejan las demás opciones por defecto y se hace clic en 
+              b “Nueva composición” (Ctrl + N)
+              |, aparecerá una ventana en donde se puedan modificar las opciones de esta nueva composición, para el proyecto serán las siguientes: anchura 1920 píxeles, la altura 1080 píxeles, la velocidad de fotogramas 30, la duración se puede dejar en 30 segundos o el tiempo suficiente para el resultado esperado, en este caso y para la animación de un ciclo de caminado completo de un personaje, 30 segundos es un tiempo más que suficiente. Se dejan las demás opciones por defecto y se hace clic en 
               b “aceptar”.
           .col-md-4
             figure
@@ -195,8 +195,8 @@
               | en la cascada de opciones se selecciona 
               b “importar” 
               | y se elige 
-              b “Importar archivo...” (Ctrl + I) 
-              | , se abrirá una ventana en donde se puede buscar la carpeta que contiene las imágenes generadas para la animación; dependiendo de la opción de animación que se requiera realizar estarán las imágenes por cada una de las poses del personaje para el ciclo de caminado completo, o el personaje diseccionado por partes que, posteriormente, funcionará como una marioneta.
+              b “Importar archivo...” (Ctrl + I)
+              |, se abrirá una ventana en donde se puede buscar la carpeta que contiene las imágenes generadas para la animación; dependiendo de la opción de animación que se requiera realizar estarán las imágenes por cada una de las poses del personaje para el ciclo de caminado completo, o el personaje diseccionado por partes que, posteriormente, funcionará como una marioneta.
           .col-md-4
             figure
               img(src='@/assets/curso/img38.jpg', alt='Texto que describa la imagen').m-auto
@@ -236,8 +236,8 @@
           .col-md-6.mb-4.mb-md-0
             p Con el personaje ya en posición se debe modificar el punto de anclaje de las capas que se van a animar, como lo son cada una de las piernas y los brazos, también la cabeza y el torso de ser necesario. En el panel de herramientas ubicado en la parte superior se encuentra la herramienta 
               b “Punto de anclaje”  
-              | , con esta herramienta seleccionada se puede ubicar el punto de anclaje de cada elemento al lugar que se requiera, 
-              b por ejemplo, en las piernas se ubica el pivote o punto de anclaje a la altura de la cadera del personaje, en los brazos a la altura del hombro y así con cada elemento
+              |, con esta herramienta seleccionada se puede ubicar el punto de anclaje de cada elemento al lugar que se requiera, 
+              b por ejemplo, en las piernas se ubica el pivote o punto de anclaje a la altura de la cadera del personaje, en los brazos a la altura del hombro y así con cada elemento 
               | que se tenga disponible o que haga parte del diseño general del personaje. 
           .col-md-4
             figure
@@ -259,7 +259,7 @@
             p Con el personaje debidamente dispuesto se puede empezar con la animación, para esto se deben empezar a modificar las propiedades de transformación de cada uno de los elementos que se tengan en la línea de tiempo. En este caso se podría empezar con las piernas. Cada elemento ubicado en la línea de tiempo dispone de una pequeña flecha ubicada en la parte izquierda que, al darle clic, se desplegarán hacia abajo las opciones de 
               b “Transformar” 
               | que son 
-              b “Punto de anclaje” , “Posición”, “Escala”, “Rotación” y “Opacidad” 
+              b “Punto de anclaje”, “Posición”, “Escala”, “Rotación” y “Opacidad”
               |, en este caso se necesitaría modificar la rotación que, con el punto de anclaje, generaría el movimiento de la pierna hacia atrás y hacia adelante, lo mismo que los brazos. Aquí todo depende del estilo o del gusto del animador, pero la idea es darle al personaje un estilo lo más parecido a la realidad, por lo que se debe trabajar en la animación modificando poco a poco cada elemento hasta dar con el resultado esperado.
           .col-md-4
             figure
@@ -273,7 +273,7 @@
         .row(titulo="").justify-content-center
           .col-md-6.mb-4.mb-md-0
             p Ya sea que se haya realizado la animación del ciclo de caminado con la técnica de secuencia de imágenes o por la animación con la marioneta, al final se debe realizar la exportación del video del trabajo realizado, para esto, con la línea de tiempo de la composición seleccionada, se accede al menú superior y hace clic en 
-              b “Composición” 
+              b “Composición”
               |, en la cascada de opciones se selecciona la opción 
               b “Procesar” 
               | en el panel inferior, mismo sobre el que está ubicada la línea de tiempo, se abrirá una pestaña llamada 
@@ -281,11 +281,11 @@
               | en donde se modificarán las opciones de guardado y exportación fina, allí en la opción 
               b “Configuración de procesamiento” 
               | se deja como 
-              b “Configuración óptima” 
+              b “Configuración óptima”
               |, en la opción 
               b “Módulo de salida” 
               | se da clic en el link en donde aparecerá una ventana llamada 
-              b “Ajustes del módulo de salida” 
+              b “Ajustes del módulo de salida”
               | , en esta ventana y en la opción 
               b “Formato” 
               | se puede escoger el formato requerido, para este caso puede ser AVI, o cualquier formato de video de preferencia que haya disponible.
@@ -294,11 +294,11 @@
               img(src='@/assets/curso/img46.jpg', alt='Texto que describa la imagen').m-auto
           .col-lg-10
             p Aquí también se pueden modificar algunos otros atributos como el tamaño del video de salida, poner o quitar el sonido si es necesario, pero, para este caso, lo que interesa es solamente el formato de video, luego se da clic en 
-              b “Aceptar” 
+              b “Aceptar”
               |. Después se elige la opción 
               b “Salida a” 
               | y se hace clic, aquí se abre la ventana típica de exportación o guardado en dónde se selecciona la carpeta del proyecto y se hace clic en 
-              b “Guardar” 
+              b “Guardar”
               |. Por último, en este mismo panel aparece en la parte derecha el botón 
               b “Procesar” 
               | y haciendo clic allí el programa realiza el procesado de la animación mostrando el estado y avance de este mediante una línea que aparece en la parte superior del panel 

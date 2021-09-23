@@ -120,14 +120,14 @@ export default {
     },
     {
       referencia:
-        'Torres, A. (2021). ¿Qué es la animación 3D y qué tipos existen?',
+        'Torres, A. (2021). ¿Qué es la animación 3D y qué tipos existen? ',
       link:
         'https://www.esdesignbarcelona.com/actualidad/animacion/que-es-la-animacion-3d-y-que-tipos-existen',
     },
   ],
   glosario: [
     {
-      termino: 'Digitalización ',
+      termino: 'Digitalización',
       significado:
         'proceso de transformar procesos análogos, objetos o imágenes físicas al mundo digital (informático).',
     },
