@@ -235,9 +235,9 @@
         .row(titulo="").justify-content-center
           .col-md-6.mb-4.mb-md-0
             p Con el personaje ya en posición se debe modificar el punto de anclaje de las capas que se van a animar, como lo son cada una de las piernas y los brazos, también la cabeza y el torso de ser necesario. En el panel de herramientas ubicado en la parte superior se encuentra la herramienta 
-              b “Punto de anclaje”  
+              b “Punto de anclaje”
               |, con esta herramienta seleccionada se puede ubicar el punto de anclaje de cada elemento al lugar que se requiera, 
-              b por ejemplo, en las piernas se ubica el pivote o punto de anclaje a la altura de la cadera del personaje, en los brazos a la altura del hombro y así con cada elemento 
+              b por ejemplo, en las piernas se ubica el pivote o punto de anclaje a la altura de la cadera del personaje, en los brazos a la altura del hombro y así con cada elemento  
               | que se tenga disponible o que haga parte del diseño general del personaje. 
           .col-md-4
             figure
